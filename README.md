@@ -1,2 +1,2 @@
 # ChimpBNA
-New Chimpanzee Brainnetome Atlas
+Chimpanzee Brainnetome Atlas
